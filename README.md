@@ -1,6 +1,6 @@
 # Go Network CLI
 
-This CLI is my version of (Tutorial's edge network cli)[https://www.youtube.com/watch?v=i2p0Snwk4gc&list=WL&index=5&ab_channel=TutorialEdge]
+This CLI is my version of [Tutorial's edge network cli](https://www.youtube.com/watch?v=i2p0Snwk4gc&list=WL&index=5&ab_channel=TutorialEdge)
 
 ## What's so special about this?
 
