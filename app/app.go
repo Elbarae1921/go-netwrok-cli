@@ -8,8 +8,7 @@ import (
 
 // App is the main struct for setting up the cli
 type App struct {
-	app   *cli.App
-	flags []cli.Flag
+	app *cli.App
 }
 
 // this function initializes the cli.App commands
